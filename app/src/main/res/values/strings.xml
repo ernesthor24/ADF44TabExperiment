@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ADF4.4TabExperiment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag1_text">These are the top stories:</string>
+    <string name="frag2_text">Tech news you can see:</string>
+    <string name="frag3_text">Cooking tips:</string>
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+</resources>
